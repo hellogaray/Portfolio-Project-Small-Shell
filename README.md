@@ -1,4 +1,4 @@
-# Small Shell Project - CS 340 at Oregon State University
+# Small Shell Project  
 
 This project is a simple shell implementation written in C for the CS 340 class at Oregon State University. The shell, named "smallsh," supports basic command execution, built-in commands (such as `cd` and `exit`), and job control for background processes.
 
